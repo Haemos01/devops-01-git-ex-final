@@ -40,6 +40,6 @@ yarn start
 
 ## Contributors
 
-Contributors names and contact info
+Van Grunderbeeck Maxence
 
 - Dls
